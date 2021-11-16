@@ -16,4 +16,8 @@ chmod +x riceify.sh
 The line in the bspwmrc to have your wallpaper needs to be altered, replace /home/alex/Pictures.ghosts.png to `Your wallpaper`
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Distro
+[Arch](https://archlinux.org)
+
